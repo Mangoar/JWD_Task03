@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl'?>
+<!DOCTYPE catalog SYSTEM "catalog.dtd">
+<employees name="Slaves">
+    <!-- Это комментарий -->
+    <details id="1" color="red">
+        <firstname>Shiv</firstname>
+        <lastname>Mishra</lastname>
+        <title>Engineer</title>
+        <division>Computer</division>
+        <building>301</building>
+        <room>11</room>
+    </details>
+    <details id="2" color="black">
+        <firstname>Yuh</firstname>
+        <lastname>Datta</lastname>
+        <title>developer</title>
+        <division>Computer</division>
+        <building>303</building>
+        <room>02</room>
+    </details>
+    <details id="3" color="blue">
+        <firstname>Rahil</firstname>
+        <lastname>Khan</lastname>
+        <title>Tester</title>
+        <division>Computer</division>
+        <building>304</building>
+        <room>10</room>
+    </details>
+    <details id="4" color="green">
+        <firstname>Deep</firstname>
+        <lastname>Parekh</lastname>
+        <title>Designer</title>
+        <division>Computer</division>
+        <building>305</building>
+        <room>14</room>
+    </details>
+    <!-- Это комментарий -->
+</employees>
+
+

@@ -1,0 +1,32 @@
+<items>
+    <item id="0001" type="donut">
+        <name>Cake</name>
+        <ppu>0.55</ppu>
+        <batters>
+            <batter id="1001">Regular</batter>
+            <batter id="1002">Chocolate</batter>
+            <batter id="1003">Blueberry</batter>
+        </batters>
+        <topping id="5001">None</topping>
+        <topping id="5002">Glazed</topping>
+        <topping id="5005">Sugar</topping>
+        <topping id="5006">Sprinkles</topping>
+        <topping id="5003">Chocolate</topping>
+        <topping id="5004">Maple</topping>
+    </item>
+    <item id="0002" type="donut">
+        <name>Kake</name>
+        <ppu>5.55</ppu>
+        <batters>
+            <batter id="1004">Regular</batter>
+            <batter id="1005">Chocolate</batter>
+            <batter id="1006">Blueberry</batter>
+        </batters>
+        <topping id="5007">None</topping>
+        <topping id="5008">Lavender</topping>
+        <topping id="5009">Salt</topping>
+        <topping id="5010">Sprinkles</topping>
+        <topping id="5011">Pepper</topping>
+        <topping id="5012">Secret</topping>
+    </item>
+</items>

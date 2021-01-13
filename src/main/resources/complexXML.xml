@@ -5,7 +5,7 @@
         <batters>
             <batter id="1001">Regular</batter>
             <batter id="1002">Chocolate</batter>
-            <batter id="1003">Blueberry</batter>
+            <batter id="1003"></br>Blueberry</batter>
         </batters>
         <topping id="5001">None</topping>
         <topping id="5002">Glazed</topping>

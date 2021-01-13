@@ -60,6 +60,7 @@ public class XmlValidator {
         }
 
         if (checkIfNotClosedElements(tags)) {
+            System.out.println(1);
             return false;
         } else {
             return true;
@@ -81,7 +82,7 @@ public class XmlValidator {
         List<String> sortedOpenedList = new ArrayList<>();
         List<String> sortedClosedList = new ArrayList<>();
         for (String tag : tagsList) {
-            if (!tag.trim().equals("/br")) {
+            if (!tag.contains("/br")) {
                 if (tag.startsWith("/")) {
                     sortedClosedList.add(tag.substring(1));
                 } else {
